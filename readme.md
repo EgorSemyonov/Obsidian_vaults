@@ -10,4 +10,4 @@
   
 Let's learn it!  
   
-[GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpyNXRrZXh3a2loc2I3anZicTkxMHYxZ2ZsZmlpMm9yNHVtbzVnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7kn27lnYSAE9O/giphy.gif)
+![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt5OWFmenhrMnRlM3l4bG45OGVmNHNjd3hwcDd2bmIzM2N0bGs4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)

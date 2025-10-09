@@ -1,0 +1,130 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": "",
+      "Image Occlusion": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text",
+      "Image Occlusion": "Occlusion"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Excalidraw": "",
+      "Lessons": "",
+      "Grammar": "",
+      "Homework": "",
+      "Pronunciation": "",
+      "Vocabulary": "",
+      "Grammar/Times": "",
+      "Homework/Workbook": "",
+      "Vocabulary/Phrases": "",
+      "Vocabulary/Words": "",
+      "Grammar/Times/Past": "",
+      "Grammar/Times/Present": "",
+      "Grammar/Times/Future": ""
+    },
+    "FOLDER_TAGS": {
+      "Excalidraw": "",
+      "Lessons": "",
+      "Grammar": "",
+      "Homework": "",
+      "Pronunciation": "",
+      "Vocabulary": "",
+      "Grammar/Times": "",
+      "Homework/Workbook": "",
+      "Vocabulary/Phrases": "",
+      "Vocabulary/Words": "",
+      "Grammar/Times/Past": "",
+      "Grammar/Times/Present": "",
+      "Grammar/Times/Future": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Obsidian_deck",
+      "Scheduling Interval": 15,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "Vocabulary/Words/Существительное.md": "d70e2a1f4958c838090fc950e58d4d57",
+    "Vocabulary/Words/Прилагательное.md": "f21c348a91d0d922345858262b43f32a",
+    "Vocabulary/Words/Наречения.md": "cf41219b7348a4e2d2fcf44996e2d442",
+    "Vocabulary/Words/Verbs.md": "02a0b8bdc07012a867b93d7eb5b9d471",
+    "Vocabulary/Phrases/Phrases.md": "e3d73fbe7b98c1eec5ee17537af71b85",
+    "Pronunciation/Reductions with not.md": "1cc7c248917d4cdad8bfe9a60c7213ae",
+    "Homework/Workbook/15.07.2025 WB p.15-16 (Grammar topic).md": "ae9244cd10a171f5df01578b5b184736",
+    "Grammar/Times/Present/Present Perfect.md": "c34a0e3b785ece2a1521593dbd7199fa",
+    "Grammar/Times/Present/Present Perfect Continuous.md": "a4cf215004e27aaf2431a35ddedb832f",
+    "Grammar/Times/Present/Present Simple.md": "68b329da9893e34099c7d8ad5cb9c940",
+    "Grammar/Times/Present/Present Continuous.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Grammar/Times/Past/Past Perfect.md": "97054f45bdda5581e08a91374096941e",
+    "Grammar/Times/Past/Past Simple.md": "98c88f5bcb3ca3fb6412ad73c05c202c",
+    "Lessons/(18.07.2025).md": "ce88175b6cdc977462845a2eaa6ab331",
+    "Lessons/( 15.07.2025 ) Present Perfect Continuous.md": "f981687d921ceb2b2ab659239f5f1f42",
+    "Homework/Workbook/15.07.2025.md": "87dd9901c43ae825874b05afd3d28852",
+    "Homework/Workbook/22.07.2025.md": "e2db680a01795c0c25a3c8d03b97c6e2",
+    "Lessons/( 25.07.2025 ).md": "354d5b00943a3838aed30be7c57f743c",
+    "Lessons/( 18.07.2025 ).md": "ce88175b6cdc977462845a2eaa6ab331",
+    "Lessons/( 23.07.2025 ) Passive voice.md": "02241df04a266bf8576bb74e6b549fe4",
+    "Lessons/( 22.07.2025 ).md": "bac02f593fb12aba29d1b38887e46837"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Image Occlusion": [
+      "Occlusion",
+      "Image",
+      "Header",
+      "Back Extra",
+      "Comments"
+    ]
+  }
+}

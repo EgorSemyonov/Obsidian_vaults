@@ -1,0 +1,15 @@
+{
+  "hotkeysplus-obsidian:toggle-bullet-number": [],
+  "hotkeysplus-obsidian:toggle-embed": [],
+  "hotkeysplus-obsidian:better-toggle-todo": [],
+  "hotkeysplus-obsidian:toggle-block-quote": [],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4bec00fa60c47afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c67af65df9970d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a38f02ab030714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "7c9a6b34e8ee059a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58b622c457b81197",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c2365354c7d376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2341e59a9494eb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14d7ecb747513030",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "103231aca12cb6f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5b4cf210d472a363",
+    "type": "split",
+    "children": [
+      {
+        "id": "067f6b695e74f73f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206b12c762b272df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dart/14. Try + catch (error exception).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 14. Try + catch (error exception)"
+            }
+          },
+          {
+            "id": "f826a019ba2f22bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dart/14. Try + catch (error exception).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 14. Try + catch (error exception)"
+            }
+          },
+          {
+            "id": "de4a2928a98d17cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fac751db5b397e88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dart/14. Try + catch (error exception).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 14. Try + catch (error exception)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "7c9a6b34e8ee059a",
+  "lastOpenFiles": [
+    "Roadmap.md",
+    "Dart/Notes.md",
+    "Excalidraw/Схема взаимодействия пользователя с ОС.md",
+    "Excalidraw/Pasted Image 20250909142755_189.png",
+    "Operation System/Basics.md",
+    "Excalidraw",
+    "Dart/Images/Pasted image 20250729225811.png",
+    "Operation System",
+    "Dart/15. Ternanry operators.md",
+    "Dart/13. Callback functions.md",
+    "Dart/14. Try + catch (error exception).md",
+    "Dart/12. Functions.md",
+    "Dart/11. Cycles (while + do while).md",
+    "Dart/6. List and set.md",
+    "Dart/10. Cycles (for + for in).md",
+    "Dart/9. Switch case.md",
+    "Dart/7. Map.md",
+    "Dart/8. Conditions (if+else).md",
+    "Untitled.canvas",
+    "Dart/5. Dynamic.md",
+    "Dart/Images/Pasted image 20250726184022.png",
+    "Dart/Images/Pasted image 20250726183828.png",
+    "Dart/4. Constants.md",
+    "Dart/Images/Pasted image 20250726170037.png",
+    "Dart/Images",
+    "Dart/3. Operations on variables.md",
+    "Dart/2. Variables.md",
+    "Dart/1. Introduction.md",
+    "Dart",
+    "Welcome.md"
+  ]
+}

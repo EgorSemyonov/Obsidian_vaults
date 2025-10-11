@@ -7,17 +7,16 @@
 
 
 ### Docker
-
+- Container (What's this exactly?)
 
 
 
 ### ELK
 
 #### ElasticSearch
-
 - Deploy a cluster
 - LDAP
-- 
+- Searching
 #### Logstash
 
 
@@ -27,7 +26,7 @@
 
 ### Kubernetes
 - Calico
-- 
+- CRD
 
 
 

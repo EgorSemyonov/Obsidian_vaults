@@ -15,7 +15,7 @@
 
 #### ElasticSearch
 - Deploy a cluster
-- LDAP
+- LDAP + RBAC
 - Searching
 #### Logstash
 

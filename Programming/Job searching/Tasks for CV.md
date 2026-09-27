@@ -1,0 +1,4 @@
+- [ ] Buy Urugvayan virtual phone number (or USA)
+- [ ] Outline working expierence in Alfa-Bank
+- [ ] Register an account on Gmail for job
+- [ ] Register an account on LinkedIn

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c4a69625fb9fcd3e",
+        "id": "e93815245957f9ea",
         "type": "tabs",
         "children": [
           {
-            "id": "c6a76f61644a9a0b",
+            "id": "2b581f40b8545997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Phrases/Phrases.md",
+                "file": "Lessons/2026/September/25.09.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phrases"
+              "title": "25.09.2026"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 200
   },
   "right": {
     "id": "74bd59b178952396",
@@ -160,59 +162,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c6a76f61644a9a0b",
+  "active": "2b581f40b8545997",
   "lastOpenFiles": [
-    "Test lessons/29.01.2026.md",
-    "Test lessons/30.01.2026.md",
-    "Homework/2025/Workbook/25.07.2025.md",
+    "Lessons/2026/September/22.09.2026.md",
+    "Lessons/2026/September/25.09.2026.md",
+    "Lessons/2026/September/05.09.2026.md",
+    "Lessons/2026/September/09.09.2026.md",
+    "Lessons/2026/September/11.09.2026.md",
+    "Lessons/2026/September/14.09.2026.md",
+    "Lessons/2026/May/27.05.2026.md",
+    "Lessons/2026/May/22.05.2026.md",
+    "Lessons/2026/May/29.05.2026.md",
+    "Lessons/2026/Jule/30.07.2026.md",
+    "Lessons/2026/September",
+    "Lessons/2026/Jule/29.07.2026.md",
+    "Lessons/2026/Jule/28.07.2026.md",
+    "Lessons/2026/Jule/24.07.2026.md",
+    "Lessons/2026/Jule/17.07.2026.md",
+    "Lessons/2026/Jule/10.07.2026.md",
+    "Lessons/2026/Jule/08.07.2026.md",
+    "Lessons/2026/Jule/Без названия",
+    "Lessons/2026/Jule/03.07.2026.md",
+    "Lessons/2026/Jule/01.07.2026.md",
+    "Lessons/2026/June/26.06.2026.md",
+    "Lessons/2026/Jule",
+    "Lessons/2026/June/24.06.2026.md",
+    "Lessons/2026/June/19.06.2026.md",
+    "Lessons/2026/June/17.06.2026.md",
+    "Lessons/2026/June/10.06.2026.md",
+    "Lessons/2026/June/05.06.2026.md",
+    "Lessons/2026/June/03.06.2026.md",
+    "Lessons/2026/May/20.05.2026.md",
+    "Lessons/2026/June",
+    "Lessons/2026/May",
+    "Pasted image 20260401202601.png",
+    "Lessons/2026/April",
+    "Lessons/2026/March/Images",
+    "Lessons/2026/March",
+    "Pasted image 20260225195653.png",
+    "Homework/2026/February",
     "Homework/2026",
-    "Homework/2025",
-    "Homework/2025/Workbook/22.07.2025.md",
-    "Homework/2025/Workbook/15.07.2025.md",
-    "Lessons/2026/February/13.02.2026.md",
     "Excalidraw/Pasted image 20250729200059.png",
-    "Lessons/2026/February/06.02.2026.md",
-    "Lessons/2026/February/04.02.2026.md",
-    "Lessons/2026/February/Images",
-    "ффф/Drawing 2026-01-30 19.02.23.excalidraw.md",
-    "Lessons/2026/Untitled.md",
-    "Lessons/2026/February",
     "Lessons/2026/February/Images/Pasted image 20260213194717.png",
     "Lessons/2026/February/Images/Pasted image 20260213194556.png",
     "Lessons/2026/February/Images/Pasted image 20260204202627.png",
     "Lessons/2026/February/Images/Pasted image 20260204202600.png",
-    "Grammar/Times/Present/Present Perfect Continuous.md",
-    "Lessons/2025/August/( 01.08.2025 ).md",
-    "Lessons/2025/August/( 08.08.2025 ).md",
-    "Lessons/2025/August/( 06.08.2025 ).md",
-    "Lessons/2025/September/( 22.09.2025 ).md",
-    "Lessons/2025/September/( 12.09.2025 ).md",
-    "Excalidraw/TMLN Past Simple.excalidraw.md",
-    "Excalidraw/TMLN Present Perfect.16.excalidraw.md",
-    "Lessons/Untitled.md",
-    "Lessons/2026",
-    "Lessons/2025",
-    "Untitled",
-    "Excalidraw/Drawing 2026-01-31 12.18.50.excalidraw.md",
-    "Test lessons",
-    "Vocabulary/Words/Irregular verbs.md",
-    "Vocabulary/Words/Verbs.md",
-    "Vocabulary/Words/Nouns.md",
-    "Vocabulary/Words/Adjectives.md",
-    "Vocabulary/Words/Adverbs.md",
-    "Lessons/2025/September",
-    "Lessons/2025/August",
     "Untitled.canvas",
     "Pasted image 20250714003329.png"
   ]

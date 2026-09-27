@@ -1,9 +1,5 @@
 ### Linux
-- OOM Killer
-- Socets
-- Linux Kernel
-- IP Tables
-- Processes
+
 
 
 ### Docker
@@ -25,7 +21,7 @@
 
 
 ### Kubernetes
-- Calico
+- Everything from [here](./Kubernetes/Plan)
 - CRD
 
 

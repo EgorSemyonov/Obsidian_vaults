@@ -5,3 +5,6 @@ plexiglass - органическое стекло
 
 wording - формулировка
 eraser - ластик
+
+resistance - сопротивление
+consumerism - потребительство
